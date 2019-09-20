@@ -1,0 +1,17 @@
+{
+  "name": "picporcess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+     "build": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^6.1.0"
+  }
+}
